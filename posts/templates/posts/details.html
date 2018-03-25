@@ -3,11 +3,13 @@
 
 {% block content %}
     <h4>{{post.title}}</h4>
-    <div>
-        {{post.body}}
+    <div class="card">
+        <div class="card-content">
+            {{post.body}}
+        </div>        
     </div>
-    <div>
+    <div class="card-action">
         {{post.created_at}}
     </div>
-<a href="/posts">Go Back</a>
+<a href="/posts" class="btn">Go Back</a>
 {% endblock %}
