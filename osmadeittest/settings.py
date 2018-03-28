@@ -32,6 +32,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'accounts',
     'posts',
     'django.contrib.admin',
     'django.contrib.auth',
@@ -77,11 +78,11 @@ WSGI_APPLICATION = 'osmadeittest.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': 'sqlite3.db',
-        'USER': '',
-        'PASSWORD': '',
-        'HOST': '',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'osblog',
+        'USER': 'postgres',
+        'PASSWORD': 'oyaro123',
+        'HOST': '127.0.0.1',
         'PORT': ''
     }
 }
@@ -129,4 +130,4 @@ STATICFILES_DIRS = [
     os.path.join(BASE_DIR, "static"),
 ]
 
-STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn")
+STATIC_ROOT = os.path.join(os.path.dirname(BASE_DIR))
