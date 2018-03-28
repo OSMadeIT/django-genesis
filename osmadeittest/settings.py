@@ -28,11 +28,15 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# Using the CKEditor(For Textarea formatting)
+DJANGO_WYSIWYG_FLAVOR = "ckeditor"
+
 
 # Application definition
 
 INSTALLED_APPS = [
     'posts',
+    'django_wysiwyg',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
