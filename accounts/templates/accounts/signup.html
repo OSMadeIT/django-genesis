@@ -2,6 +2,12 @@
 
 {% block content %}
 
-<blockquote><h2>ExRant Signup</h2></blockquote>
+<blockquote><h2>ExpressYourself Signup</h2></blockquote>
+<form class="col s12" action="/accounts/signup/" method="POST">
+    {% csrf_token %}
+    {{form}}
+    <br>
+    <button type="submit" class="btn">Signup</button>
+</form>
 
 {% endblock %}
