@@ -1,0 +1,1439 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5289c76-6de4-417a-8e4c-f1eac25ddafd" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/settings.py" afterPath="$PROJECT_DIR$/osmadeittest/settings.py" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap-grid.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap-grid.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap-grid.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap-grid.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap-reboot.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap-reboot.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap-reboot.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap-reboot.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/css/bootstrap.min.css.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/js/bootstrap.bundle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/js/bootstrap.bundle.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/js/bootstrap.bundle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/js/bootstrap.bundle.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/js/bootstrap.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/dist/js/bootstrap.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/alert.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/button.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/carousel.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/collapse.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/dropdown.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/index.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/modal.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/popover.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/scrollspy.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/tab.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/tooltip.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/dist/util.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/button.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/collapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/popover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/js/src/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_alert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_badge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_breadcrumb.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_button-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_card.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_carousel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_close.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_code.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_custom-forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_dropdown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_functions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_images.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_input-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_jumbotron.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_media.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_modal.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_navbar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_popover.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_print.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_progress.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_reboot.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_root.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_tables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_tooltip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_transitions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_type.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/bootstrap-grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/bootstrap-reboot.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/bootstrap.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_alert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_background-variant.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_badge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_border-radius.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_box-shadow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_breakpoints.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_caret.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_clearfix.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_float.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_gradients.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_grid-framework.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_hover.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_image.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_list-group.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_lists.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_nav-divider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_navbar-align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_reset-text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_resize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_screen-reader.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_size.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_table-row.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_text-emphasis.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_text-hide.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_text-truncate.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_transition.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/mixins/_visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_background.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_borders.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_clearfix.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_display.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_embed.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_flex.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_float.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_position.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_screenreaders.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_sizing.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_spacing.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/bootstrap/scss/utilities/_visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/.bowerrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/.jscsrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/.jshintrc" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/.travis.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/Gruntfile.coffee" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/changelog.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/component.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/hammer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/hammer.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/hammer.min.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/hammer.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/expose.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/hammer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/hammer.prefix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/hammer.suffix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/input.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/input/mouse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/input/pointerevent.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/input/singletouch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/input/touch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/input/touchmouse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/manager.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/recognizer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/recognizers/attribute.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/recognizers/pan.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/recognizers/pinch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/recognizers/press.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/recognizers/rotate.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/recognizers/swipe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/recognizers/tap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/touchaction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/src/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/assets/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/compute_touch_action.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/input.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/log.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/multiple.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/nested.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/simulator-googlemaps.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/simulator.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/touchaction.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/manual/visual.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/assets/blanket.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/assets/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/assets/lodash.compat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/assets/qunit.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/assets/qunit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/assets/utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/gestures/test_pan.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/gestures/test_pinch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/gestures/test_swipe.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_enable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_events.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_gestures.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_hammer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_jquery_plugin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_multiple_taps.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_nested_gesture_recognizers.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_propagation_bubble.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_require_failure.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_simultaneous_recognition.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/hammerjs/tests/unit/test_utils.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/AUTHORS.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/dist/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/dist/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/dist/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/dist/jquery.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/dist/jquery.slim.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/dist/jquery.slim.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/dist/jquery.slim.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/external/sizzle/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/external/sizzle/dist/sizzle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/external/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/external/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax/jsonp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax/load.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax/parseXML.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax/var/location.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax/var/nonce.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax/var/rquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/ajax/xhr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/attributes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/attributes/attr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/attributes/classes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/attributes/prop.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/attributes/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/attributes/val.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/callbacks.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/DOMEval.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/access.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/camelCase.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/init.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/nodeName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/parseHTML.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/ready-no-deferred.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/ready.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/readyException.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/stripAndCollapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/toType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/core/var/rsingleTag.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/addGetHookIf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/adjustCSS.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/curCSS.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/showHide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/var/cssExpand.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/var/getStyles.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/var/isHiddenWithinTree.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/var/rboxStyle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/css/var/swap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/data/Data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/data/var/acceptData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/data/var/dataPriv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/data/var/dataUser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/deferred.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/deferred/exceptionHook.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/deprecated.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/dimensions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/effects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/effects/Tween.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/effects/animatedSelector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/event.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/event/ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/event/alias.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/event/focusin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/event/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/event/trigger.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/exports/amd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/exports/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/buildFragment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/getAll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/var/rtagName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/manipulation/wrapMap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/offset.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/queue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/queue/delay.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/selector-native.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/selector-sizzle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/selector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/serialize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/traversing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/traversing/findFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/traversing/var/dir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/traversing/var/siblings.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/ObjectFunctionString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/arr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/class2type.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/concat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/document.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/documentElement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/fnToString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/getProto.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/hasOwn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/indexOf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/isFunction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/isWindow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/pnum.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/push.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/rcssNum.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/rnothtmlwhite.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/slice.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/var/toString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/jquery/src/wrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/Gruntfile.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/css/materialize.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/css/materialize.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Bold.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Bold.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Light.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Light.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Medium.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Medium.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Thin.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/fonts/roboto/Roboto-Thin.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/js/materialize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/dist/js/materialize.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/extras/noUiSlider/nouislider.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/extras/noUiSlider/nouislider.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/extras/noUiSlider/nouislider.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/animation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/buttons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/cards.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/carousel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/character_counter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/chips.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/collapsible.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/date_picker/picker.date.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/date_picker/picker.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/date_picker/picker.time.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/forms.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/hammer.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/initial.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/jquery.easing.1.4.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/jquery.hammer.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/materialbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/parallax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/pushpin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/scrollFire.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/sideNav.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/slider.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/tabs.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/tapTarget.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/toasts.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/transitions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/velocity.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/js/waves.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/AUTHORS.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/dist/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/dist/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/dist/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/dist/jquery.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/dist/jquery.slim.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/dist/jquery.slim.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/dist/jquery.slim.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/external/sizzle/LICENSE.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/external/sizzle/dist/sizzle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/external/sizzle/dist/sizzle.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/external/sizzle/dist/sizzle.min.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/.eslintrc.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax/jsonp.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax/load.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax/parseXML.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax/script.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax/var/location.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax/var/nonce.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax/var/rquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/ajax/xhr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/attributes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/attributes/attr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/attributes/classes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/attributes/prop.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/attributes/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/attributes/val.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/callbacks.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/DOMEval.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/access.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/camelCase.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/init.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/nodeName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/parseHTML.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/ready-no-deferred.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/ready.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/readyException.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/stripAndCollapse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/toType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/core/var/rsingleTag.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/addGetHookIf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/adjustCSS.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/curCSS.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/hiddenVisibleSelectors.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/showHide.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/var/cssExpand.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/var/getStyles.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/var/isHiddenWithinTree.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/var/rboxStyle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/var/rnumnonpx.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/css/var/swap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/data/Data.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/data/var/acceptData.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/data/var/dataPriv.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/data/var/dataUser.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/deferred.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/deferred/exceptionHook.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/deprecated.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/dimensions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/effects.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/effects/Tween.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/effects/animatedSelector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/event.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/event/ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/event/alias.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/event/focusin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/event/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/event/trigger.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/exports/amd.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/exports/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/jquery.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/_evalUrl.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/buildFragment.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/getAll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/setGlobalEval.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/var/rcheckableType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/var/rscriptType.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/var/rtagName.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/manipulation/wrapMap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/offset.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/queue.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/queue/delay.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/selector-native.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/selector-sizzle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/selector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/serialize.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/traversing.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/traversing/findFilter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/traversing/var/dir.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/traversing/var/rneedsContext.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/traversing/var/siblings.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/ObjectFunctionString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/arr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/class2type.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/concat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/document.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/documentElement.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/fnToString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/getProto.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/hasOwn.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/indexOf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/isFunction.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/isWindow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/pnum.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/push.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/rcssNum.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/rnothtmlwhite.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/slice.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/support.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/var/toString.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/node_modules/jquery/src/wrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_badges.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_cards.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_carousel.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_chips.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_collapsible.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_color.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_dropdown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_global.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_icons-material-design.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_materialbox.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_modal.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_navbar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_normalize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_preloader.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_pulse.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_roboto.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_sideNav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_slider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_table_of_contents.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_tabs.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_tapTarget.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_toast.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_tooltip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_transitions.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_typography.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/_waves.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/date_picker/_default.date.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/date_picker/_default.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/date_picker/_default.time.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/forms/_checkboxes.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/forms/_file-input.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/forms/_forms.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/forms/_input-fields.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/forms/_radio-buttons.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/forms/_range.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/forms/_select.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/components/forms/_switches.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/materialize-css/sass/materialize.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/.eslintrc.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/LICENSE.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/build/build.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/build/icons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/build/less.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/build/prefix.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/build/release.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/build/scope.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/build/scss.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/build/util.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/circle.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/dist/css/uikit-rtl.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/dist/css/uikit-rtl.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/dist/css/uikit.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/dist/css/uikit.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/dist/js/uikit-icons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/dist/js/uikit-icons.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/dist/js/uikit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/dist/js/uikit.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/accordion-close.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/accordion-open.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/divider-icon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/form-checkbox-indeterminate.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/form-checkbox.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/form-radio.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/form-select.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/list-bullet.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/nav-parent-close.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/backgrounds/nav-parent-open.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/close-icon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/close-large.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/marker.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/navbar-toggle-icon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/overlay-icon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/pagination-next.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/pagination-previous.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/search-icon.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/search-large.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/search-navbar.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/slidenav-next-large.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/slidenav-next.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/slidenav-previous-large.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/slidenav-previous.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/spinner.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/components/totop.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/500px.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/album.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/arrow-down.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/arrow-left.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/arrow-right.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/arrow-up.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/ban.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/behance.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/bell.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/bold.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/bolt.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/bookmark.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/calendar.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/camera.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/cart.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/check.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/chevron-down.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/chevron-left.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/chevron-right.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/chevron-up.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/clock.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/close.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/cloud-download.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/cloud-upload.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/code.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/cog.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/comment.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/commenting.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/comments.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/copy.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/credit-card.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/database.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/desktop.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/download.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/dribbble.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/expand.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/facebook.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/file-edit.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/file.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/flickr.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/folder.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/forward.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/foursquare.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/future.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/git-branch.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/git-fork.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/github-alt.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/github.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/gitter.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/google-plus.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/google.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/grid.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/happy.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/hashtag.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/heart.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/history.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/home.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/image.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/info.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/instagram.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/italic.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/joomla.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/laptop.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/lifesaver.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/link.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/linkedin.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/list.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/location.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/lock.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/mail.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/menu.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/minus-circle.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/minus.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/more-vertical.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/more.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/move.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/nut.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/pagekit.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/paint-bucket.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/pencil.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/phone-landscape.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/phone.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/pinterest.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/play-circle.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/play.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/plus-circle.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/plus.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/pull.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/push.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/question.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/quote-right.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/receiver.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/refresh.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/reply.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/rss.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/search.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/server.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/settings.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/shrink.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/sign-in.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/sign-out.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/social.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/soundcloud.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/star.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/strikethrough.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/table.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/tablet-landscape.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/tablet.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/tag.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/thumbnails.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/trash.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/triangle-down.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/triangle-left.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/triangle-right.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/triangle-up.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/tripadvisor.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/tumblr.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/tv.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/twitter.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/uikit.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/unlock.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/upload.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/user.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/users.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/video-camera.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/vimeo.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/warning.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/whatsapp.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/wordpress.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/world.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/xing.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/yelp.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/images/icons/youtube.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/api/boot.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/api/component.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/api/global.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/api/hooks.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/api/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/api/instance.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/api/state.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/countdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/grid-parallax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/internal/lightbox-animations.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/internal/lightbox-panel.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/internal/slider-parallax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/internal/slider-transitioner.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/internal/slideshow-animations.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/lightbox.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/notification.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/parallax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/slider.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/slideshow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/sortable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/tooltip.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/components/upload.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/accordion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/alert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/cover.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/drop.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/dropdown.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/form-custom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/gif.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/grid.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/height-match.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/height-viewport.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/icon.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/leader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/margin.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/nav.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/navbar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/offcanvas.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/responsive.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/scroll.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/scrollspy-nav.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/scrollspy.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/sticky.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/svg.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/switcher.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/tab.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/toggle.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/core/video.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/icons.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/class.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/container.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/internal/slider-autoplay.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/internal/slider-drag.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/internal/slider-nav.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/internal/slider-reactive.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/internal/slideshow-animations.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/internal/slideshow-transitioner.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/modal.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/parallax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/position.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/slider.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/slideshow.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/mixin/togglable.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/uikit-core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/uikit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/ajax.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/animation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/attr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/class.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/core.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/dimensions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/dom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/env.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/event.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/fastdom.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/filter.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/lang.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/mouse.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/options.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/player.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/promise.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/selector.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/style.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/js/util/touch.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/_import.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/accordion.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/alert.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/align.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/animation.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/article.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/background.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/badge.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/base.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/breadcrumb.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/button.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/card.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/close.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/column.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/comment.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/container.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/countdown.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/cover.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/description-list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/divider.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/dotnav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/drop.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/dropdown.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/flex.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/form-range.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/form.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/grid.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/heading.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/icon.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/iconnav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/inverse.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/label.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/lightbox.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/link.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/margin.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/marker.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/mixin.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/modal.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/nav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/navbar.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/notification.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/offcanvas.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/overlay.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/padding.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/pagination.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/placeholder.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/position.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/print.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/progress.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/search.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/section.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/slidenav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/slider.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/slideshow.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/sortable.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/spinner.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/sticky.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/subnav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/switcher.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/tab.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/table.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/text.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/thumbnav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/tile.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/tooltip.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/totop.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/transition.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/utility.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/visibility.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/components/width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/_import.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/accordion.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/alert.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/align.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/animation.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/article.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/background.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/badge.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/base.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/breadcrumb.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/button.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/card.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/close.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/column.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/comment.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/container.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/countdown.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/description-list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/divider.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/dotnav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/drop.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/dropdown.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/form-range.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/form.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/grid.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/heading.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/icon.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/iconnav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/inverse.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/label.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/lightbox.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/link.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/list.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/margin.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/marker.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/modal.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/nav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/navbar.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/notification.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/offcanvas.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/overlay.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/padding.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/pagination.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/placeholder.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/position.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/progress.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/search.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/section.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/slidenav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/sortable.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/spinner.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/sticky.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/subnav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/tab.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/table.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/text.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/thumbnav.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/tile.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/tooltip.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/totop.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/transition.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/utility.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/variables.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/theme/width.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/uikit.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/less/uikit.theme.less" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/_import.components.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/_import.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/_import.utilities.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/accordion.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/alert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/animation.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/article.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/background.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/badge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/base.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/breadcrumb.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/button.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/card.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/close.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/column.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/comment.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/container.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/countdown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/cover.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/description-list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/divider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/dotnav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/drop.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/dropdown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/flex.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/form-range.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/form.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/heading.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/icon.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/iconnav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/inverse.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/label.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/lightbox.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/link.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/margin.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/marker.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/mixin.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/modal.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/navbar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/notification.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/offcanvas.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/overlay.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/padding.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/placeholder.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/position.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/print.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/progress.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/search.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/section.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/slidenav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/slider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/slideshow.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/sortable.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/spinner.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/sticky.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/subnav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/switcher.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/tab.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/table.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/thumbnav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/tile.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/tooltip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/totop.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/transition.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/utility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/visibility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/components/width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/mixins-theme.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/mixins.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/_import.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/accordion.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/alert.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/align.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/animation.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/article.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/background.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/badge.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/base.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/breadcrumb.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/button.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/card.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/close.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/column.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/comment.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/container.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/countdown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/description-list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/divider.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/dotnav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/drop.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/dropdown.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/form-range.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/form.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/grid.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/heading.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/icon.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/iconnav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/inverse.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/label.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/lightbox.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/link.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/list.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/margin.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/marker.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/modal.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/nav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/navbar.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/notification.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/offcanvas.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/overlay.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/padding.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/pagination.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/placeholder.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/position.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/progress.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/search.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/section.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/slidenav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/sortable.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/spinner.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/sticky.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/subnav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/tab.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/table.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/text.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/thumbnav.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/tile.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/tooltip.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/totop.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/transition.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/utility.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/theme/width.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/uikit-theme.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/uikit.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/variables-theme.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/src/scss/variables.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/accordion.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/alert.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/align.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/animation.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/article.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/background.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/badge.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/base.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/breadcrumb.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/button.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/card.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/close.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/column.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/comment.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/container.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/countdown.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/cover.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/description-list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/divider.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/dotnav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/drop.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/dropdown.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/flex.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/form.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/grid-parallax.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/grid.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/heading.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/height-expand.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/height-viewport.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/icon.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/iconnav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/animated.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/avatar.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/dark.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/icons.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/light.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/photo.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/photo2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/photo3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/size-h.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/size-v.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/size1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/size2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/slider1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/slider2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/slider3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/slider4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/images/slider5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/js/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/js/uikit.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/label.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/lightbox.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/link.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/list.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/margin.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/marker.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/modal.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/nav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/navbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/notification.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/offcanvas.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/overlay.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/padding.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/pagination.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/parallax.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/placeholder.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/position.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/progress.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/scroll.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/scrollspy.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/search.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/section.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/slidenav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/slider.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/slideshow.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/sortable.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/spinner.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/sticky-navbar.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/sticky.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/subnav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/switcher.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/tab.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/table.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/text.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/thumbnav.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/tile.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/toggle.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/tooltip.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/totop.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/transition.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/upload.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/utility.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/visibility.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/tests/width.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/webpack.config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/static/uikit/yarn.lock" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/osmadeittest/urls.py" afterPath="$PROJECT_DIR$/osmadeittest/urls.py" />
+      <change beforePath="$PROJECT_DIR$/posts/templates/posts/details.html" afterPath="$PROJECT_DIR$/posts/templates/posts/details.html" />
+      <change beforePath="$PROJECT_DIR$/posts/templates/posts/index.html" afterPath="$PROJECT_DIR$/posts/templates/posts/index.html" />
+      <change beforePath="$PROJECT_DIR$/posts/templates/posts/layout.html" afterPath="$PROJECT_DIR$/posts/templates/posts/layout.html" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/posts/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/osmadeittest/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/osmadeittest/settings.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="django-genesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-genesis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-genesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="osmadeittest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="django-genesis" type="b2602c69:ProjectViewProjectNode" />
+              <item name="django-genesis" type="462c0819:PsiDirectoryNode" />
+              <item name="posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5289c76-6de4-417a-8e4c-f1eac25ddafd" name="Default" comment="" />
+      <created>1521838286905</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1521838286905</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2359375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30743244" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/posts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/osmadeittest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/osmadeittest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="84" column="17" lean-forward="false" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/posts/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/osmadeittest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="83" column="17" lean-forward="false" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
