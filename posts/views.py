@@ -8,7 +8,7 @@ from .models import Posts
 
 
 def index(request):
-    posts = Posts.objects.all()[:10]
+    posts = Posts.objects.all()[::-1]
     context = {
         'title': 'Latest Posts',
         'posts': posts

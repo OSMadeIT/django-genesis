@@ -2,14 +2,14 @@
 
 {% block content %}
 
-<div class="card">
-    <div class="card-header">ExpressYourself Signup</div>
-    <div class="card-body">
+<div class="card row">
+    <div class="card-header">Pick your username, set your password and you are good to go!</div>
+    <div class="card-body col s6 offset-s3">
         <form class="card-text" action="/accounts/signup/" method="POST">
         {% csrf_token %}
         {{form}}
         <br>
-        <button type="submit" class="btn">Signup</button>
+        <button type="submit" class="btn tooltipped">Signup</button>
         </form>
     </div>
     

@@ -1,13 +1,30 @@
 {% extends 'posts/layout.html' %}
-
+{% load static %}
 
 {% block content %}
     <h4 class="center-align red lighten-3">{{title}}</h4>
-    <ul>
-        {% for post in posts %}
-            <li>
-                <a href="/posts/details/{{post.id}}">{{post.title}}</a>
-            </li>
-        {% endfor %}
-    </ul>
+
+    <div class="row">
+        <div class="col s12 m6">
+            <div class="card teal darken-4">
+                <div class="card-image">
+                    <img src="{% static 'images/IMG_0351.jpg' %}">
+                    <span class="card-title">How I met your mother</span>
+                </div>
+                <div class="card-content white-text">
+                    <div class="posts">
+                        {% for post in posts %}
+                            <div class="post">
+                                <header>
+                                    <div class="card-action"><a href="/posts/details/{{post.id}}">{{post.title}}</a></div>
+                                </header>
+                                <p class="text-justified">{{post.body}}</p>
+                                <footer class="text-muted">Posted on {{post.created_at}}</footer>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 {% endblock %}
