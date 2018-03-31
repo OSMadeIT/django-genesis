@@ -5,7 +5,8 @@
     <blockquote>{{post.title}}</blockquote>
     <div class="card">
         <div class="card-content">
-            <p class="flow-text">{{post.body}}</p>
+            <img class="img-fluid" src="{{post.image.url}}">
+            <p class="flow-text">{{post.body|safe}}</p>
         </div>        
     </div>
     <div class="card-action">
