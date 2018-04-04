@@ -12,7 +12,7 @@
             <h5>{{post.title}}</h5>
             <img class="img-fluid" src="{{post.image.url}}" alt="Card image cap">
             <blockquote class="blockquote">
-                <p class="mb-0">{{post.body|safe}}</p>
+                <p class="mb-0 text-justify">{{post.body|safe}}</p>
             </blockquote>
             <a href="/posts/details/{{post.id}}" class="btn btn-primary">Read more...</a>
             <footer class="blockquote-footer">Posted on {{post.created_at}}</footer>

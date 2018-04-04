@@ -2,28 +2,10 @@
 
 {% block content %}
 <div class="col-md-8 offset-md-2">
-    <form id="post">
-        <div class="form-group">
-                <label for="formGroupExampleInput">Post Title</label>
-                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
-                </div>
-        <div class="form-group">
-            <label for="exampleFormControlSelect2">Add Tags</label>
-            <select multiple class="form-control" id="exampleFormControlSelect2">
-                <option>1</option>
-                <option>2</option>
-                <option>3</option>
-                <option>4</option>
-                <option>5</option>
-            </select>
-        <div class="form-group">
-            <label for="exampleFormControlTextarea1">Post</label>
-            <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
-        </div>
-        <div class="form-group">
-            <label for="exampleFormControlFile1">Add Image(if you want, no pressure)</label>
-            <input type="file" class="form-control-file" id="exampleFormControlFile1">
-        </div>
+    <form action="{% url 'posts:index' %}" action="" method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        {{form}}
+        <button type="submit" class="btn btn-primary">Post</button>
     </form>
 </div>
 {% endblock content %}
