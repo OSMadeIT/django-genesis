@@ -4,11 +4,11 @@ from django.contrib import admin
 from django.conf import settings
 
 urlpatterns = [
-    url(r'^$', include('posts.urls')),
-    url(r'^accounts/', include('accounts.urls')),
-    url(r'^admin/', admin.site.urls),
-    url(r'^posts/', include('posts.urls')),
-    url(r'^ckeditor/', include('ckeditor_uploader.urls')),
+    url('', include('posts.urls')),
+    url('accounts/', include('accounts.urls')),
+    url('admin/', admin.site.urls),
+    url('posts/', include('posts.urls')),
+    url('ckeditor/', include('ckeditor_uploader.urls')),
 ]
 
 if settings.DEBUG:
