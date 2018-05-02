@@ -85,11 +85,11 @@ WSGI_APPLICATION = 'osmadeittest.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'osblog',
-        'USER': 'postgres',
-        'PASSWORD': 'oyaro123',
-        'HOST': '127.0.0.1',
-        'PORT': ''
+        'NAME': 'd2c8bsp4u09bnc',
+        'USER': 'hkednypqsbqdoh',
+        'PASSWORD': 'df20cc701945119063ae435117952d5fdaefff830da077d8bbfbca2877a5ecd1',
+        'HOST': 'ec2-23-23-180-121.compute-1.amazonaws.com',
+        'PORT': '5432'
     }
 }
 
