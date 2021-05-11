@@ -2704,8 +2704,8 @@ locate-path@^2.0.0:
     path-exists "^3.0.0"
 
 lodash@^4.14.0, lodash@^4.17.2, lodash@^4.17.4, lodash@^4.3.0, lodash@^4.8.0:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 loglevel@^1.4.1:
   version "1.6.1"
@@ -3101,8 +3101,9 @@ npm-run-path@^2.0.0:
   dependencies:
     path-key "^2.0.0"
 
-npm-watch@dasdeck/npm-watch.git#46a8a36c61cfd998ed53d27f62eaf79e11c395b4:
+"npm-watch@github:dasdeck/npm-watch#46a8a36c61cfd998ed53d27f62eaf79e11c395b4":
   version "0.3.0"
+  uid "46a8a36c61cfd998ed53d27f62eaf79e11c395b4"
   resolved "https://codeload.github.com/dasdeck/npm-watch/tar.gz/46a8a36c61cfd998ed53d27f62eaf79e11c395b4"
   dependencies:
     minimist "^1.2.0"
