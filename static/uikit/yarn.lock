@@ -2047,8 +2047,8 @@ hoek@2.x.x:
   resolved "https://registry.yarnpkg.com/hoek/-/hoek-2.16.3.tgz#20bb7403d3cea398e91dc4710a8ff1b8274a25ed"
 
 hosted-git-info@^2.1.4:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.5.0.tgz#6d60e34b3abbc8313062c3b798ef8d901a07af3c"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -3101,8 +3101,9 @@ npm-run-path@^2.0.0:
   dependencies:
     path-key "^2.0.0"
 
-npm-watch@dasdeck/npm-watch.git#46a8a36c61cfd998ed53d27f62eaf79e11c395b4:
+"npm-watch@github:dasdeck/npm-watch#46a8a36c61cfd998ed53d27f62eaf79e11c395b4":
   version "0.3.0"
+  uid "46a8a36c61cfd998ed53d27f62eaf79e11c395b4"
   resolved "https://codeload.github.com/dasdeck/npm-watch/tar.gz/46a8a36c61cfd998ed53d27f62eaf79e11c395b4"
   dependencies:
     minimist "^1.2.0"
