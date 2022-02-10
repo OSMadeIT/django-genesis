@@ -3101,8 +3101,9 @@ npm-run-path@^2.0.0:
   dependencies:
     path-key "^2.0.0"
 
-npm-watch@dasdeck/npm-watch.git#46a8a36c61cfd998ed53d27f62eaf79e11c395b4:
+"npm-watch@github:dasdeck/npm-watch#46a8a36c61cfd998ed53d27f62eaf79e11c395b4":
   version "0.3.0"
+  uid "46a8a36c61cfd998ed53d27f62eaf79e11c395b4"
   resolved "https://codeload.github.com/dasdeck/npm-watch/tar.gz/46a8a36c61cfd998ed53d27f62eaf79e11c395b4"
   dependencies:
     minimist "^1.2.0"
@@ -4536,10 +4537,8 @@ uid-number@^0.0.6:
   resolved "https://registry.yarnpkg.com/uid-number/-/uid-number-0.0.6.tgz#0ea10e8035e8eb5b8e4449f06da1c730663baa81"
 
 undefsafe@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/undefsafe/-/undefsafe-2.0.1.tgz#03b2f2a16c94556e14b2edef326cd66aaf82707a"
-  dependencies:
-    debug "^2.2.0"
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/undefsafe/-/undefsafe-2.0.5.tgz#38733b9327bdcd226db889fb723a6efd162e6e2c"
 
 union-value@^1.0.0:
   version "1.0.0"
